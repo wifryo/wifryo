@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Will</h1>
+<h1 align>Hi  I'm Will</h1>
 <h3 align="center">A curious & enthusiastic web developer</h3>
 
 - 🔭 I’m currently working on [tapestry](tapestry-gen.fly.dev)
