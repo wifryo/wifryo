@@ -3,7 +3,7 @@ Welcome to my Github!
 I'm Will, a curious & open-minded structural engineer turned web developer based in Vienna, Austria.
 
 - 🧮 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL**
-- ✏️ My latest project is **[tapestry](github.com/wifryo/tapestry)**, an AI-powered text generator
+- ✏️ My latest project is **[tapestry](https://github.com/wifryo/tapestry)**, an AI-powered text generator
 - 🎓 I love to learn & grow my tech stack
 
 
