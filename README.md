@@ -2,7 +2,7 @@
 
 Welcome to my Github!
 
-I'm Will, a structural engineer turned web developer from the UK, based in Vienna 
+I'm Will, a structural engineer turned web developer based in Vienna
 
 - 🔭 I’m currently working on [tapestry](tapestry-gen.fly.dev)
 
