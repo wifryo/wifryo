@@ -1,6 +1,6 @@
 Welcome to my Github!   
 
-I'm Will, a curious & open-minded structural engineer turned web developer based in Vienna
+I'm Will, a curious & open-minded structural engineer turned web developer based in Vienna, Austria 🇦🇹
 
 - 🧮 I'm mainly developing with **JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL**
 - ✏️ I’m currently working on [tapestry](tapestry-gen.fly.dev), an AI-powered text generator
