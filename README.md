@@ -1,8 +1,8 @@
-<h1 align>Hi  I'm Will</h1>
+<h1 align>Hi I'm Will</h1>
 
 Welcome to my Github!
 
-I'm Will, a structural engineer turned web developer from the UK based in Vienna.
+I'm Will, a structural engineer turned web developer from the UK, based in Vienna 
 
 - 🔭 I’m currently working on [tapestry](tapestry-gen.fly.dev)
 
