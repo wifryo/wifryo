@@ -1,4 +1,4 @@
-Welcome to my Github!   
+Welcome to my Github page!   
 
 I'm Will, a curious & open-minded structural engineer turned web developer based in Vienna, Austria.
 
